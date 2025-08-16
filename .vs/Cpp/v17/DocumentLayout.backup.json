@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wbsla\\source\\repos\\Cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E721F818-1EBD-468C-8426-D0DE5CC01A95}|integer\\integer.vcxproj|C:\\Users\\wbsla\\source\\repos\\Cpp\\Cpp1_4\\integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E721F818-1EBD-468C-8426-D0DE5CC01A95}|integer\\integer.vcxproj|solutionrelative:Cpp1_4\\integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D69553A-DF23-4DE3-9D67-047E8E446D37}|Cpp1_4\\Cpp1_4.vcxproj|C:\\Users\\wbsla\\source\\repos\\Cpp\\Cpp1_4\\Cpp1_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D69553A-DF23-4DE3-9D67-047E8E446D37}|Cpp1_4\\Cpp1_4.vcxproj|solutionrelative:Cpp1_4\\Cpp1_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E9D98A-1354-4A44-945C-1B44A13A0244}|Cpp3_1\\Cpp3_1.vcxproj|C:\\Users\\wbsla\\source\\repos\\Cpp\\Cpp3_1\\Cpp3_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72E9D98A-1354-4A44-945C-1B44A13A0244}|Cpp3_1\\Cpp3_1.vcxproj|solutionrelative:Cpp3_1\\Cpp3_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "integer.cpp",
+              "DocumentMoniker": "C:\\Users\\wbsla\\source\\repos\\Cpp\\Cpp1_4\\integer.cpp",
+              "RelativeDocumentMoniker": "Cpp1_4\\integer.cpp",
+              "ToolTip": "C:\\Users\\wbsla\\source\\repos\\Cpp\\Cpp1_4\\integer.cpp",
+              "RelativeToolTip": "Cpp1_4\\integer.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-16T03:59:09.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cpp1_4.cpp",
+              "DocumentMoniker": "C:\\Users\\wbsla\\source\\repos\\Cpp\\Cpp1_4\\Cpp1_4.cpp",
+              "RelativeDocumentMoniker": "Cpp1_4\\Cpp1_4.cpp",
+              "ToolTip": "C:\\Users\\wbsla\\source\\repos\\Cpp\\Cpp1_4\\Cpp1_4.cpp",
+              "RelativeToolTip": "Cpp1_4\\Cpp1_4.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-16T03:35:38.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cpp3_1.cpp",
+              "DocumentMoniker": "C:\\Users\\wbsla\\source\\repos\\Cpp\\Cpp3_1\\Cpp3_1.cpp",
+              "RelativeDocumentMoniker": "Cpp3_1\\Cpp3_1.cpp",
+              "ToolTip": "C:\\Users\\wbsla\\source\\repos\\Cpp\\Cpp3_1\\Cpp3_1.cpp",
+              "RelativeToolTip": "Cpp3_1\\Cpp3_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-16T03:27:38.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
